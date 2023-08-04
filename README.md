@@ -1,4 +1,4 @@
-# KENSU Challenge Solution (Forex) - Michael Bauer
+# FOREX Challenge Solution - Michael Bauer
 
 This repository contains code representing my proposed solution to the challenge of implementing a service to fetch currency exchange rates from the 1forge API and provide them via an API which serves data that is stale by no more than 5 minutes and enables a higher number of requests per 24h cycle than the 1forge API under the free plan.
 
